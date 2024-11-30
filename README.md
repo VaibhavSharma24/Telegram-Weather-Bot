@@ -64,7 +64,3 @@ node bot.js
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Feel free to modify any sections to better fit the specifics of your project or additional instructions!
-=======
- Telegram Bot to get Weather Updates !
->>>>>>> Stashed changes
