@@ -1,5 +1,4 @@
 # Telegram-Weather-Bot
-<<<<<<< Updated upstream
  Telegram Bot to get Weather Updates
 
 
